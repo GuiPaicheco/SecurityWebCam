@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+runtime/
+test-results/
+*.mp4
+*.m4a
+*.mkv
+*.sqlite*
+*.log
+*.partial
+dist/
+build/
+.env

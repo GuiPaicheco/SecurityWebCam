@@ -1,0 +1,206 @@
+{
+  "platform": "win32",
+  "tests": [
+    {
+      "mode": "audio",
+      "passed": true,
+      "segments": [
+        {
+          "duration": 5.01551,
+          "bytes": 81397,
+          "streams": [
+            {
+              "type": "audio",
+              "codec": "aac",
+              "start": "0.000000",
+              "duration": "5.015510"
+            }
+          ],
+          "decode_exit": 0
+        },
+        {
+          "duration": 4.99229,
+          "bytes": 81930,
+          "streams": [
+            {
+              "type": "audio",
+              "codec": "aac",
+              "start": "0.000000",
+              "duration": "4.992290"
+            }
+          ],
+          "decode_exit": 0
+        },
+        {
+          "duration": 3.01542,
+          "bytes": 49791,
+          "streams": [
+            {
+              "type": "audio",
+              "codec": "aac",
+              "start": "0.000000",
+              "duration": "3.015420"
+            }
+          ],
+          "decode_exit": 0
+        },
+        {
+          "duration": 4.52322,
+          "bytes": 73737,
+          "streams": [
+            {
+              "type": "audio",
+              "codec": "aac",
+              "start": "0.000000",
+              "duration": "4.523220"
+            }
+          ],
+          "decode_exit": 0
+        }
+      ],
+      "pause_resume": true
+    },
+    {
+      "mode": "video",
+      "passed": true,
+      "segments": [
+        {
+          "duration": 5.033328,
+          "bytes": 1400278,
+          "streams": [
+            {
+              "type": "video",
+              "codec": "h264",
+              "start": "0.000000",
+              "duration": "5.033328"
+            }
+          ],
+          "decode_exit": 0
+        },
+        {
+          "duration": 4.999995,
+          "bytes": 1266663,
+          "streams": [
+            {
+              "type": "video",
+              "codec": "h264",
+              "start": "0.000000",
+              "duration": "4.999995"
+            }
+          ],
+          "decode_exit": 0
+        },
+        {
+          "duration": 2.833331,
+          "bytes": 710129,
+          "streams": [
+            {
+              "type": "video",
+              "codec": "h264",
+              "start": "0.000000",
+              "duration": "2.833330"
+            }
+          ],
+          "decode_exit": 0
+        },
+        {
+          "duration": 4.166663,
+          "bytes": 1198757,
+          "streams": [
+            {
+              "type": "video",
+              "codec": "h264",
+              "start": "0.000000",
+              "duration": "4.166663"
+            }
+          ],
+          "decode_exit": 0
+        }
+      ],
+      "pause_resume": true
+    },
+    {
+      "mode": "av",
+      "passed": true,
+      "segments": [
+        {
+          "duration": 5.06195,
+          "bytes": 1716109,
+          "streams": [
+            {
+              "type": "video",
+              "codec": "h264",
+              "start": "0.000000",
+              "duration": "5.056548"
+            },
+            {
+              "type": "audio",
+              "codec": "aac",
+              "start": "0.000000",
+              "duration": "5.061950"
+            }
+          ],
+          "decode_exit": 0
+        },
+        {
+          "duration": 5.020907,
+          "bytes": 1438492,
+          "streams": [
+            {
+              "type": "video",
+              "codec": "h264",
+              "start": "0.000000",
+              "duration": "4.999995"
+            },
+            {
+              "type": "audio",
+              "codec": "aac",
+              "start": "0.000000",
+              "duration": "5.020907"
+            }
+          ],
+          "decode_exit": 0
+        },
+        {
+          "duration": 2.999997,
+          "bytes": 800606,
+          "streams": [
+            {
+              "type": "video",
+              "codec": "h264",
+              "start": "0.000000",
+              "duration": "2.999997"
+            },
+            {
+              "type": "audio",
+              "codec": "aac",
+              "start": "0.000000",
+              "duration": "2.966667"
+            }
+          ],
+          "decode_exit": 0
+        },
+        {
+          "duration": 4.056549,
+          "bytes": 1394092,
+          "streams": [
+            {
+              "type": "video",
+              "codec": "h264",
+              "start": "0.000000",
+              "duration": "4.056549"
+            },
+            {
+              "type": "audio",
+              "codec": "aac",
+              "start": "0.000000",
+              "duration": "4.023220"
+            }
+          ],
+          "decode_exit": 0
+        }
+      ],
+      "pause_resume": true
+    }
+  ]
+}

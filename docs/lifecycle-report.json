@@ -1,0 +1,8 @@
+{
+  "pythonw_launcher": true,
+  "http_login": true,
+  "unauthorized_blocked": true,
+  "duplicate_launch_exits": true,
+  "graceful_shutdown": true,
+  "capture_default_stopped": true
+}

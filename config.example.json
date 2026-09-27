@@ -1,0 +1,29 @@
+{
+  "mode": "av",
+  "camera": "USB Camera",
+  "microphone": "Microfone (USB Camera)",
+  "resolution": "640x480",
+  "fps": 30,
+  "quality": "balanced",
+  "segment_seconds": 600,
+  "destination": "C:\\SecurityWebCam\\Gravacoes",
+  "missing_destination": "wait",
+  "fallback": "C:\\SecurityWebCam\\Contingencia",
+  "device_failure": "wait",
+  "autostart": false,
+  "min_free_gb": 2.0,
+  "max_storage_gb": 0.0,
+  "retention_days": 0,
+  "cloud_enabled": false,
+  "cloud_folder": "",
+  "cloud_modes": [
+    "audio",
+    "video",
+    "av"
+  ],
+  "cloud_hours": [],
+  "cloud_preserved_only": false,
+  "cloud_retention_days": 0,
+  "remote_host": "",
+  "remote_enabled": false
+}

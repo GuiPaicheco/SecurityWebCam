@@ -1,0 +1,10 @@
+{
+  "abrupt_app_kill": true,
+  "ffmpeg_killed_by_job": true,
+  "completed_hashes_preserved": 1,
+  "duplicate_instance_blocked": true,
+  "encoder_failure_recovered": true,
+  "restart_recording": true,
+  "segments_after_recovery": 4,
+  "physical_unplug_tested": false
+}
